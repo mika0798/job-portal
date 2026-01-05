@@ -90,7 +90,11 @@ upload résumés, and track application status.
 <h3>Frontend</h3>
 <ul>
   <li>Thymeleaf</li>
-  <li>HTML, CSS, JavaScript</li>
+  <li>Web Jars</li>
+  <li>Boostrap</li>
+  <li>jQuery</li>
+  <li>Locator</li>
+  <li>Font-awesome</li>
 </ul>
 
 <h2 id="project-structure">5. Project Structure</h2>
